@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mujibluth" alt="mujibluth" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mujibluth&count_private=true& show_icons=true&theme=algolia" alt="mujibluth" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mujibluth" alt="mujibluth" /> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mujibluth&count_private=true&show_icons=true&theme=algolia" alt="mujibluth" /> </p>
 
 <!-- Here are some ideas to get you started:
 
