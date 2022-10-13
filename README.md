@@ -7,6 +7,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mujibluth" alt="mujibluth" /> </p> <!-- visitors counted from the date : 15 April 2021 -->
 
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mujibluth&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br>
+
 <!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
