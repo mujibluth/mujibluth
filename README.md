@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Abdul Mujiburrohman Luthfi</h1>
-<p align="left">Hello I am a student majoring in Electronics Engineering with an Applied Bachelor degree. My studies in electronics didn't make me try new things. On the other side of my lesson about electronics, I also learned about Web Development. Thank you for visiting my GitHub profile </p>
+<p align="left">I like to spend a long time in front of the screen, working on something related to Information Technology. The field I focus on is learning related to Software Engineering, especially Web Development. Developing websites made me also learn Digital Infrastructure on the back side. I have experience in leading a project in the form of a digital product. I really like collaborating and creating something that can be used to help many people through technology.</p>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mujibluth&count_private=true&show_icons=true&theme=prussian" alt="mujibluth" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mujibluth&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
